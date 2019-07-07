@@ -1,23 +1,29 @@
 body
 {
-background-color: white;
-
+font-family: 'Noto Serif', serif;
+background-color: rgb(146, 142, 142);
+}
 
 #container
 {
-
+width: 1000px;
+margin-left: auto;
+margin-right: auto;
 }
 #menu
 {
-
+background-color: 
 }
 #logo
 {
-color: red;
-font-size: 16px;
+color: rgb(100, 70, 70);
+font-size: 44px;
+letter-spacing: 3px;
+font-family: 'Dawning of a New Day', cursive;
+
 }
 #footer
 {
 
 }
-}
+
